@@ -1,1 +1,2 @@
-<h2> Here is some info about the app</h2>
+<h2>About US </h2>
+Here is some info about the app
