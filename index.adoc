@@ -1,1 +1,0 @@
-<h2>THis is a new index.adoc file for Jekyll</h2>
